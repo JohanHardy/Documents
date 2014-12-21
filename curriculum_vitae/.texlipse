@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sun Dec 21 15:12:45 CET 2014
+markTmpDer=true
+builderNum=2
+outputDir=output/
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=document.tex
+outputFile=JohanHardy.pdf
+langSpell=en
+markDer=true
+srcDir=src/
